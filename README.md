@@ -5,3 +5,5 @@
 ![C/C++ CI](https://github.com/99002580/MINI-PROJECT-CPP/workflows/C/C++%20CI/badge.svg?branch=main)
 
 ![Valgrind](https://github.com/99002580/MINI-PROJECT-CPP/workflows/Valgrind/badge.svg)
+
+![Unit testing](https://github.com/99002580/MINI-PROJECT-CPP/workflows/Unit%20testing/badge.svg)
