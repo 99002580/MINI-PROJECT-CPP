@@ -60,7 +60,7 @@ std::string ballot :: CandidateWithMaxVotes(){
      }
      return winner;
 }
-//Issue Raised
+//Issue Resolved
 std::string ballot :: CandidateWithMinVotes(){
     std::list<voter> :: iterator iter=v.begin();
     int minvotes = iter->getVotes();
